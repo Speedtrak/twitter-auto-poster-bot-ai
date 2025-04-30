@@ -1,6 +1,3 @@
-//? It is advisable to use environment variables instead of directly putting secrets in repository file but I have skipped this part as it would become complicated for many.
-//? Alternatively you can download the repository instead or forking and upload it from your account and keep it private, in that way, your secrets will not be exposed to the public.
-
 const APP_KEY = "eegXBkQ329hmVXwaCXk3Zj0C5";
 const APP_SECRET = "k6XfNkt9YrTSIoL4it3pGUhPV1Cb3eqdlFMquLp8xAp8WWQZLc";
 const ACCESS_TOKEN = "1751475225332473857-84OHWI4xyia98JQtKiaVszAbC282bZ";
